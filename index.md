@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to Liang Zhang's Pages
 
-You can use the [editor on GitHub](https://github.com/scottocs/scottocs.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education and Working Experience
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+2008-2012 Huazhong University of Science and Technology 华中科技大学
+2012-2014 Baidu China Inc. 百度（中国）有限公司
+2017-2022 Fudan University 复旦大学
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Publications
 
-### Jekyll Themes
+```markdown
+1. **Liang Zhang**,Feiyang Qiu,Feng Hao and Haibin Kan.1-Round Distributed Key Generation with Efficient Reconstruction Using Decentralized CP-ABE. IEEE Transactions on Information Forensics and Security (CCF A 类; SCI 一区), 2022, vol. 17, pp. 894-907.
+2. **Liang Zhang**, Haibin Kan, Honglan Huang. Patient-Centered Cross-Enterprise Document Sharing and Dynamic Consent Framework using Consortium Blockchain and Ciphertext-Policy Attribute-Based Encryption. the 19th ACM International Conference on Computing Frontiers (CCF C 类), 2022, pp. 58-66.
+3. **Liang Zhang**, Haibin Kan, Yuan Li and Jinrong Huang. Poster: Blockchain- Envisioned Secure Generic Communication Framework using Signcryption. The ACM Symposium on Access Control Models and Technologies (CCF C 类), 2022, pp. 255–257.
+4. **Liang Zhang**, Haibin Kan, Yang Xu and Jinhao Ran. Revocable Data Sharing Methodology Based on SGX and Blockchain. International Conference on Net- work and System Security (EI: 20220411517836), 2021, pp. 61-78.
+5. **张亮**, 刘百祥, 张如意, 江斌鑫, 刘一江. 区块链技术综述. 计算机工程 (CCF 高质量期刊 T2 类), 2019, 45(05):1-12.
+6. 陈泽宁, **张亮**, 张双俊, 阚海斌. 基于区块链和去中心属性密码的访问控制身 份方案. 中国科学 (CCF 高质量期刊 T1 类), 2020, 58(8).
+7. 张展鹏, **张亮**, 彭凌祺, 阚海斌. 基于区块链非同质化代币的软件订阅模型. 计算机工程 (CCF 高质量期刊 T2 类), 2022, 48(01):24-32.
+8. 李鸣, **张亮**, 宋文鹏, 吴美玉. 区块链：元宇宙的核心基础设施. 计算机工程 (CCF 高质量期刊 T2 类), 2022, 48(6):24-32,41.
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scottocs/scottocs.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Patents
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```markdown
+1. 阚海斌, 陈泽宁, **张亮**等. 硬件产品防伪溯源方法, 节点设备及系统. 申请号: 2018105007984, 授权公告号: CN108880789B, 授权公告日: 2021.06.15.
+2. 阚海斌, **张亮**等. 基于属性加密的联盟区块链实现信贷方法及系统，申请号: 2018104328009，授权公告号: CN108898475B，授权公告日: 2021.04.06.
+```
