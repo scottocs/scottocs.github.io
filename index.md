@@ -12,7 +12,7 @@
 ### Publications
 
 
-1. **Liang Zhang**,Feiyang Qiu,Feng Hao and Haibin Kan.1-Round Distributed Key Generation with Efficient Reconstruction Using Decentralized CP-ABE. IEEE Transactions on Information Forensics and Security (**CCF A 类; SCI 一区**), 2022, vol. 17, pp. 894-907.
+1. **Liang Zhang**, Feiyang Qiu, Feng Hao and Haibin Kan. 1-Round Distributed Key Generation with Efficient Reconstruction Using Decentralized CP-ABE. IEEE Transactions on Information Forensics and Security (**CCF A 类; SCI 一区**), 2022, vol. 17, pp. 894-907.
 2. **Liang Zhang**, Haibin Kan, Honglan Huang. Patient-Centered Cross-Enterprise Document Sharing and Dynamic Consent Framework using Consortium Blockchain and Ciphertext-Policy Attribute-Based Encryption. the 19th ACM International Conference on Computing Frontiers (**CCF C 类**), 2022, pp. 58-66.
 3. **Liang Zhang**, Haibin Kan, Yuan Li and Jinrong Huang. Poster: Blockchain- Envisioned Secure Generic Communication Framework using Signcryption. The ACM Symposium on Access Control Models and Technologies (**CCF C 类**), 2022, pp. 255–257.
 4. **Liang Zhang**, Haibin Kan, Yang Xu and Jinhao Ran. Revocable Data Sharing Methodology Based on SGX and Blockchain. International Conference on Net- work and System Security (**EI: 20220411517836**), 2021, pp. 61-78.
