@@ -39,9 +39,16 @@
   2. Journal of Software (软件学报)
   3. Computer Engineering (计算机工程)
   4. ACM TOPS
+  5. IEEE Transactions on Industrial Informatics
   
 #### Standard
   1. IEEE Standard for Blockchain System Governance P3012
   2. 《DB52/T1466-2019 区块链应用指南》
   3. 《DB52/T1467-2019 区块链 系统测评和选型规范》
   4. 《信息技术区块链和分布式账本技术参考架构》20173824-T-469
+
+#### Public talks
+  1. publicly distributed randomness beacon @Fudan University, China
+  2. NSS'21 @Tianjin, China (virtual)
+  3. CF'22 @Turin, Italy (virtual)
+  4. SACMAT'22 @Online (virtual)
