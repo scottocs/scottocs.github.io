@@ -5,7 +5,7 @@
 ```markdown
 2008-2012 Huazhong University of Science and Technology (华中科技大学) B.S.
 2012-2014 Baidu China Inc. 百度（中国）有限公司 R&D
-2017-2022 Fudan University 复旦大学 Ph.D
+2017-2022 Fudan University 复旦大学 Ph.D 导师：阚海斌 (Haibin Kan)
 2022-Now Hainan University 海南大学 Lecturer
 ```
 
