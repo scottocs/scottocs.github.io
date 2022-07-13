@@ -6,9 +6,17 @@
 2008-2012 Huazhong University of Science and Technology (华中科技大学) B.S.
 2012-2014 Baidu China Inc. 百度（中国）有限公司 R&D
 2017-2022 Fudan University 复旦大学 Ph.D. 导师：阚海斌 (Haibin Kan)
-2022-Now Hainan University 海南大学 Lecturer  Email: zhangliang@hainanu.edu.cn/zliangedu@gmail.com
+2022-Now Hainan University 海南大学 网络空间安全学院（密码学院） 讲师Lecturer
 ```
 
+### Contact
+我曾工作于互联网大厂，随后硕博连读于复旦大学，具有扎实的理论和工程实践能力。欢迎热爱互联网技术，或热爱科研的学生，或能自我驱动的学生与我联系，在我这里你能学到你想要的能力！
+
+```markdown
+邮箱: zhangliang@hainanu.edu.cn/zliangedu@gmail.com
+电话: (+86)18616529515
+微信号: wx_sjbcy9zdgnnf
+```
 ### Publications
 
 
