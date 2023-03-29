@@ -1,14 +1,6 @@
 ## 海南大学 张亮的主页
 
 
-### Contact/联系我
-我曾工作于互联网大厂，还参与过移动互联网创业，公司两年成功登录新三板，随后硕博连读于复旦大学，现工作于高校，具有扎实的理论和工程实践能力。欢迎热爱互联网技术，或热爱科研的学生，或能自我驱动的学生与我联系，在我这里你能学到你想要的能力！我目前研究方向包括：**区块链、应用密码学和人工智能图像处理**。个人在海南大学的官方介绍（信息略有滞后）链接：https://hd.hainanu.edu.cn/scscs/info/1051/2494.htm
-
-```markdown
-邮箱: zhangliang@hainanu.edu.cn/zliangedu@gmail.com
-微信号: wx_sjbcy9zdgnnf
-```
-
 ### Education/教育背景
 
 ```markdown
@@ -22,6 +14,16 @@
 2015-2016 Startup company 创业公司  研发工程师R&D
 2022-Now Hainan University 海南大学 网络空间安全学院（密码学院） 讲师Lecturer
 ```
+
+
+### Contact/联系我
+我曾工作于互联网大厂，还参与过移动互联网创业，公司两年成功登录新三板，随后硕博连读于复旦大学，现工作于高校，具有扎实的理论和工程实践能力。欢迎热爱互联网技术，或热爱科研的学生，或能自我驱动的学生与我联系，在我这里你能学到你想要的能力！我目前研究方向包括：**区块链、应用密码学和人工智能图像处理**。个人在海南大学的官方介绍（信息略有滞后）链接：https://hd.hainanu.edu.cn/scscs/info/1051/2494.htm
+
+```markdown
+邮箱: zhangliang@hainanu.edu.cn/zliangedu@gmail.com
+微信号: wx_sjbcy9zdgnnf
+```
+
 
 ### Publications/发表文章
 
