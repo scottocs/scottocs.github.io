@@ -69,3 +69,8 @@
   2. NSS'21 @Tianjin, China (virtual)
   3. CF'22 @Turin, Italy (virtual)
   4. SACMAT'22 @Online (virtual)
+
+### 在读研究生
+1. 马宇航 
+2. 欧展荣
+3. 吴星雨
