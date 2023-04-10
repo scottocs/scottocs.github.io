@@ -27,8 +27,8 @@
 ### Publications/发表文章
 
 1. **Liang Zhang**, Feiyang Qiu, Feng Hao and Haibin Kan. 1-Round Distributed Key Generation with Efficient Reconstruction Using Decentralized CP-ABE. IEEE Transactions on Information Forensics and Security (**CCF A 类; SCI 一区**), 2022, 17:894-907.
-2. **Liang Zhang**, Haibin Kan and Yihao Wang. Privacy-Preserving AGV Collision-Resistance at the Edge Using Location-Based Encryption. IEEE Transactions on Services Computing (**CCF A 类**), 2023, Accepted.
-3. **Liang Zhang**, Haibin Kan, Feiyang Qiu and Feng Hao. A publicly verifiable optimistic fair exchange protocol using decentralized CP-ABE. the Computer Journal (**CCF B 类**), 2023, Accepted.
+2. **Liang Zhang**, Haibin Kan and Yihao Wang. Privacy-Preserving AGV Collision-Resistance at the Edge Using Location-Based Encryption. IEEE Transactions on Services Computing (**CCF A 类**), 2023, Accepted. https://doi.org/10.1109/TSC.2023.3234886
+3. **Liang Zhang**, Haibin Kan, Feiyang Qiu and Feng Hao. A publicly verifiable optimistic fair exchange protocol using decentralized CP-ABE. the Computer Journal (**CCF B 类**), 2023, Accepted. https://doi.org/10.1093/comjnl/bxad039
 4. **Liang Zhang**, Haibin Kan, Honglan Huang. Patient-Centered Cross-Enterprise Document Sharing and Dynamic Consent Framework using Consortium Blockchain and Ciphertext-Policy Attribute-Based Encryption. the 19th ACM International Conference on Computing Frontiers (**CCF C 类**), 2022, pp. 58-66.
 5. **Liang Zhang**, Haibin Kan, Yuan Li and Jinrong Huang. Poster: Blockchain-Envisioned Secure Generic Communication Framework using Signcryption. The ACM Symposium on Access Control Models and Technologies (**CCF C 类**), 2022, pp. 255–257.
 6. **Liang Zhang**, Haibin Kan, Yang Xu and Jinhao Ran. Revocable Data Sharing Methodology Based on SGX and Blockchain. International Conference on Network and System Security (**EI: 20220411517836**), 2021, pp. 61-78.
@@ -37,7 +37,7 @@
 9. 张展鹏, **张亮**, 彭凌祺, 阚海斌. 基于区块链非同质化代币的软件订阅模型. 计算机工程 (**CCF 高质量期刊 T2 类**), 2022, 48(01):24-32.
 10. 李鸣, **张亮**, 宋文鹏, 吴美玉. 区块链：元宇宙的核心基础设施. 计算机工程 (**CCF 高质量期刊 T2 类**), 2022, 48(6):24-32,41.
 11. **张亮**, 刘百祥. 区块链与秘密分享融合技术概述. 计算机工程 (**CCF 高质量期刊 T2 类**),  2022,48(01):1-11.
-12. 黄金荣, 刘百祥, **张亮**, 张展鹏. 基于智能合约非同质化代币的去中心化匿名身份认证模型. 计算机工程 (**CCF 高质量期刊 T2 类**), 已录用.
+12. 黄金荣, 刘百祥, 张亮, 张展鹏. 基于智能合约和非同质化代币的去中心化匿名身份认证模型[J]. 计算机工程, 2023, 49(4): 14-22.
 
 ### Patents/专利
 
