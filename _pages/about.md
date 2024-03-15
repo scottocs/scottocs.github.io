@@ -43,6 +43,13 @@ Selected Publications
 1. 黄金荣, 刘百祥, **张亮**, 张展鹏. 基于智能合约和非同质化代币的去中心化匿名身份认证模型[J]. 计算机工程(CCF 高质量期刊 T2 类), 2023, 49(4): 14-22.
 
 
+Fundings
+======
+1. 2024.02.08-2026.02.07, Hainan Province Key R&D Plan Project, 660,000 Yuan, Principal Investigator.
+1. 2024.01.01-2026.12.31, Youth Teacher Training Project of Hainan University, 30,000 Yuan, Principal Investigator.
+1. 2023.03.07-2023.10.31, the Foundation of Hainan University, 30,000 Yuan, Principal Investigator.
+1. 2022.07.07-Now, the Foundation of Hainan University, 100,000 Yuan, Principal Investigator.
+
 
 Teaching Activities
 ======
