@@ -21,7 +21,8 @@ Work/Education Experience
 1. 2012-2014 R&D @Baidu China Inc.
 1. 2015-2016 R&D @Startup company
 1. 2017-2022 Integrated MS-PhD Program @Fudan University Directed by: Haibin Kan
-1. 2022-Now Lecturer @Hainan University
+1. 2022-2023 Lecturer @Hainan University
+1. 2024-Now Associate Professor @Hainan University
 
 
 Selected Publications
