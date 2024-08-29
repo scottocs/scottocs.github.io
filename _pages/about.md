@@ -35,7 +35,7 @@ Selected Publications
 1. **Liang Zhang**, Haibin Kan*, Honglan Huang. Patient-Centered Cross-Enterprise Document Sharing and Dynamic Consent Framework using Consortium Blockchain and Ciphertext-Policy Attribute-Based Encryption. In the 19th ACM International Conference on Computing Frontiers (CCF C), 2022, pp. 58-66.
 1. **Liang Zhang**, Haibin Kan*, Yuan Li and Jinrong Huang. Poster: Blockchain-Envisioned Secure Generic Communication Framework using Signcryption. In the ACM Symposium on Access Control Models and Technologies (CCF C), 2022, pp. 255–257.
 1. **Liang Zhang**, Haibin Kan*, Yang Xu and Jinhao Ran. Revocable Data Sharing Methodology Based on SGX and Blockchain. In the International Conference on Network and System Security (EI: 20220411517836), 2021, pp. 61-78.
-1. **张亮**, 刘百祥, 张如意, 江斌鑫, 刘一江. 区块链技术综述. 计算机工程 (CCF 高质量期刊T2 类), 2019, 45(05):1-12.
+1. **张亮**, 刘百祥, 张如意, 江斌鑫, 刘一江. 区块链技术综述. 计算机工程 (高被引, CCF 高质量期刊T2 类), 2019, 45(05):1-12.
 1. 马宇航, **张亮***，吴星雨, 李鸣. 基于分布式密钥生成和属性密码的多方跨链交易方案. 计算机研究与发展(CCF 高质量期刊 T1 类), 2023, 已接收.
 1. 陈泽宁, **张亮**, 张双俊, 阚海斌*. 基于区块链和去中心属性密码的访问控制身份方案. 中国科学 (CCF 高质量期刊 T1 类), 2020, 58(8).
 1. 张展鹏, **张亮**, 彭凌祺, 阚海斌*. 基于区块链非同质化代币的软件订阅模型. 计算机工程 (CCF 高质量期刊 T2 类), 2022, 48(01):24-32.
@@ -46,10 +46,10 @@ Selected Publications
 
 Fundings
 ======
-1. 2024.02.08-2026.02.07, Hainan Province Key R&D Plan Project, 660,000 Yuan, Principal Investigator.
-1. 2024.01.01-2026.12.31, Youth Teacher Training Project of Hainan University, 30,000 Yuan, Principal Investigator.
-1. 2023.03.07-2023.10.31, the Foundation of Hainan University, 30,000 Yuan, Principal Investigator.
-1. 2022.07.07-Now, the Foundation of Hainan University, 100,000 Yuan, Principal Investigator.
+1. 2024.02.08-2026.02.07, Hainan Province Key R&D Plan Project, 660,000 RMB, Principal Investigator.
+1. 2024.01.01-2026.12.31, National Natural Science Foundation of China for Young Scientists, 300,000 RMB, Principal Investigator.
+1. 2023.03.07-2023.10.31, Youth Teacher Training Project of Hainan University, 30,000 RMB, Principal Investigator.
+1. 2022.07.07-Now, the Foundation of Hainan University, 100,000 RMB, Principal Investigator.
 
 
 Teaching Activities
