@@ -27,6 +27,7 @@ Work/Education Experience
 
 Selected Publications
 ======
+1. **Liang Zhang**, Zhanrong Ou, Changhui Hu, Haibin Kan* and Jiheng Zhang. Data sharing in the metaverse with key abuse resistance based on decentralized CP-ABE. IEEE Transactions on Computers (CCF A), 2024, Accepted
 1. **Liang Zhang**, Haibin Kan* and Yihao Wang. Privacy-Preserving AGV Collision-Resistance at the Edge Using Location-Based Encryption. IEEE Transactions on Services Computing (CCF A), 2023, 16(4): 2868-2878. [link](https://ieeexplore.ieee.org/document/10012042)
 1. **Liang Zhang**, Feiyang Qiu, Feng Hao and Haibin Kan*. 1-Round Distributed Key Generation with Efficient Reconstruction Using Decentralized CP-ABE. IEEE Transactions on Information Forensics and Security (CCF A), 2022, 17:894-907.  [link](https://ieeexplore.ieee.org/document/9715067)
 1. **Liang Zhang**, Haibin Kan*, Feiyang Qiu and Feng Hao. A publicly verifiable optimistic fair exchange protocol using decentralized CP-ABE. the Computer Journal (CCF B), 2024, 67(3), 1017-1029. [link](https://academic.oup.com/comjnl/article-abstract/67/3/1017/7135811)
