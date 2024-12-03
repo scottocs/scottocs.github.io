@@ -74,12 +74,12 @@ Undergraduate Students
 1. Xingyu Wu, Ph.D, research interest: Blockchain, Attribute-Based Encryption, Chamelon hash, Distributed Key Generation
 1. Yuhang Ma, Master, research interest: Crosschain, Attribute-Based Encryption, DeFi
 1. Zhanrong Ou, Master, research interest: Blockchain, Publicly verifiable Secret sharing, Distributed Randomness Beacon
-1. Hang Zhou, research interest: Blockchain, Attribute-Based Encryption, Data Aggregation
-1. Ziming Wang, research interest: Deep Learning, Federated Learning
-1. Fan Yang, research interest: Deep Learning, Image Processing
-1. Xuyan Wei, research interest: polynomial commitment, publicly verifiable secret sharing
-1. Wei Fang, research interest: deep learning, image processing
-1. Ziyan Duan, research interest: Attribute-Based Encryption
-1. Xiaolian Liao, research interest: post-quantum cryptography, publicly verifiable secret sharing
+1. Hang Zhou, Master, research interest: Blockchain, Attribute-Based Encryption, Data Aggregation
+1. Ziming Wang, Master, research interest: Deep Learning, Federated Learning
+1. Fan Yang, Master, research interest: Deep Learning, Image Processing
+1. Xuyan Wei, Master, research interest: polynomial commitment, publicly verifiable secret sharing
+1. Wei Fang, Master, research interest: deep learning, image processing
+1. Ziyan Duan, Master, research interest: Attribute-Based Encryption
+1. Xiaolian Liao, Master, research interest: post-quantum cryptography, publicly verifiable secret sharing
 1. Tao Liu, Bachelor, research interest: publicly verifiable secret sharing, proxy re-encryption
 
