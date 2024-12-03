@@ -81,5 +81,5 @@ Undergraduate Students
 1. Wei Fang, Master, research interest: deep learning, image processing
 1. Ziyan Duan, Master, research interest: Attribute-Based Encryption
 1. Xiaolian Liao, Master, research interest: post-quantum cryptography, publicly verifiable secret sharing
-1. Tao Liu, Bachelor, research interest: publicly verifiable secret sharing, proxy re-encryption
+1. Tao Liu, Bachelor, (will persue his Master degree at Wuhan University in 2025), research interest: publicly verifiable secret sharing, proxy re-encryption
 
