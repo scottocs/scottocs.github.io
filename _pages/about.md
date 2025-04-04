@@ -11,7 +11,7 @@ Welcome students, who are self-driven, interested in IT industry, or passionate 
 
 Contact
 ======
-1. Email: zhangliang@hainanu.edu.cn
+1. Email: briliasm@gmail.com
 1. Wechat: zkprove
 
 
