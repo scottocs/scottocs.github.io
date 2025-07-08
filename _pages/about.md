@@ -23,7 +23,8 @@ Work/Education Experience
 1. 2017-2022 Integrated MS-PhD Program @Fudan University Directed by: Haibin Kan
 1. 2022-2023 Lecturer @Hainan University
 1. 2024-Now Associate Professor @Hainan University
-1. 2024-Now PostDoc @Hong Kong University of Science and Technology
+1. 2024-2025 PostDoc @HKUST
+1. 2025-Now Research Assistant Professor @HKUST
 
 
 Selected Publications
@@ -52,7 +53,7 @@ Fundings
 ======
 1. 2024.02.08-2026.02.07, Hainan Province Key R&D Project, 660,000 RMB, Principal Investigator.
 1. 2024.01.01-2026.12.31, National Natural Science Foundation of China for Young Scientists, 300,000 RMB, Principal Investigator.
-1. 2023.03.07-2023.10.31, Youth Teacher Training Project of Hainan University, 30,000 RMB, Principal Investigator.
+<!-- 1. 2023.03.07-2023.10.31, Youth Teacher Training Project of Hainan University, 30,000 RMB, Principal Investigator. -->
 1. 2022.07.07-Now, the Foundation of Hainan University, 100,000 RMB, Principal Investigator.
 
 
