@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome students, who are self-driven, interested in IT industry, or passionate at scientific research, to contact me. You can learn what you desire from me! My current research interests include **blockchain**, **applied cryptography** and **deep learning**.
+I welcome students who are self‑driven, interested in the IT industry, or passionate about scientific research to reach out. Whether you aim for a career in industry or academia, you can learn the skills you seek here. My current research interests include **blockchain**, **applied cryptography**, and **deep learning**.
 
 Contact
 ======
