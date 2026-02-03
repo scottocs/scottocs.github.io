@@ -26,6 +26,12 @@ Work/Education Experience
 1. 2024-2025 PostDoc @HKUST
 1. 2025-Now Research Assistant Professor @HKUST
 
+Online ePrints
+======
+1. **Liang Zhang**, Dongliang Cai, Tao Liu, Xingyu Wu, Haibin Kan, Jiheng Zhang and Moti Yung, 2025. Publicly Verifiable Generalized Secret Sharing Schemes and Their Applications. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2025/664.pdf)
+1. **Liang Zhang**, Dongliang Cai, Yiwen Gao, Haibin Kan, Jiheng Zhang and Moti Yung, 2025.  Relating PVSS to CCA2-Secure Threshold Encryption: Generic Schemes with O(1) Verification Complexity. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2025/1964.pdf)
+1. **Liang Zhang**, Tao Liu, Haibin Kan and Jiheng Zhang, 2025. AsyRand: asynchronous distributed randomness beacon with reconfiguration. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2025/406.pdf)
+
 
 Selected Publications
 ======
@@ -45,6 +51,8 @@ Selected Publications
 1. **Liang Zhang**, Haibin Kan*, Jinrong Huang and Zhanpeng Zhang. Hierarchically Delegatable and Revocable Access Control for Large-scale IoT Devices with Tradability based on Blockchain. APWeb-WAIM, 2023, pp. 81-95. [link](https://link.springer.com/chapter/10.1007/978-981-97-2303-4_6)
 1. **Liang Zhang**, Haibin Kan*, Honglan Huang. Patient-Centered Cross-Enterprise Document Sharing and Dynamic Consent Framework using Consortium Blockchain and Ciphertext-Policy Attribute-Based Encryption. In the 19th ACM International Conference on Computing Frontiers, 2022, pp. 58-66. [link](https://dl.acm.org/doi/abs/10.1145/3528416.3530228)
 1. **Liang Zhang**, Haibin Kan*, Yuan Li and Jinrong Huang. Poster: Blockchain-Envisioned Secure Generic Communication Framework using Signcryption. In the ACM Symposium on Access Control Models and Technologies, 2022, pp. 255–257. [link](https://dl.acm.org/doi/abs/10.1145/3532105.3535034)
+
+
 <!-- 1. **Liang Zhang**, Haibin Kan*, Yang Xu and Jinhao Ran. Revocable Data Sharing Methodology Based on SGX and Blockchain. In the International Conference on Network and System Security (EI: 20220411517836), 2021, pp. 61-78. [link](https://link.springer.com/chapter/10.1007/978-3-030-92708-0_4)
 1. 陶静怡, **张亮**, 阚海斌. 基于区块链和去中心化可问责属性认证的众包方案. 软件学报 (CCF 高质量期刊 T1 类). 2024, 1-16. [link](https://www.jos.org.cn/jos/article/abstract/nk016)
 1. **张亮**, 刘百祥, 张如意, 江斌鑫, 刘一江. 区块链技术综述. 计算机工程 (高被引, CCF 高质量期刊T2 类), 2019, 45(05):1-12. [link](https://www.ecice06.com/CN/10.19678/j.issn.1000-3428.0053554)
