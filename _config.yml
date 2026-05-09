@@ -11,7 +11,12 @@ locale                   : "en-US"
 title                    : "Liang Zhang / Personal page"
 title_separator          : "-"
 name                     : &name "Liang Zhang"
-description              : &description "personal description"
+description              : &description "Liang Zhang's personal academic homepage focused on applied cryptography, blockchain, and research at HKUST."
+keywords                 :
+  - applied cryptography
+  - HKUST
+  - zhang liang
+  - blockchain
 url                      : https://scottocs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "scottocs/scottocs.github.io"

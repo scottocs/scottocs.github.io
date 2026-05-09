@@ -35,10 +35,12 @@ Online ePrints
 
 Selected Publications
 ======
-1. Dongliang Cai, **Liang Zhang**, Borui Chen, Haibin Kan. Registered attribute-based encryption with reliable outsourced decryption based on blockchain. Frontiers of Computer Science, 2025. [link](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-50707-3)
+1. **Liang Zhang**, Xingyu Wu, Qiuling Yue, Haibin Kan and Jiheng Zhang. Attribute-based publicly verifiable secret sharing. Cybersecurity, 2026, 9(1):123. [link](https://doi.org/10.1186/s42400-026-00559-6)
+1. **Liang Zhang**, Ziming Wang, Fan Yang, Haibin Kan and Jiheng Zhang. MASH: Mask Shuffling-Based Federated Learning for Both Cross-Silo and Cross-Device Environments. IEEE Transactions on Mobile Computing, 2026. [link](https://doi.org/10.1109/TMC.2026.3683638)
 1. Dongliang Cai, Borui Chen, **Liang Zhang**, Kexin Li, Haibin Kan. Blockchain-enabled reliable outsourced decryption CP-ABE using responsive zkSNARK for mobile computing. Future Generation Computer Systems, 2025, 108182. [link](https://www.sciencedirect.com/science/article/pii/S0167739X25004765)
-1. Fan Yang, Jingzhang Sun, Honglan Huang, **Liang Zhang**, Jiheng Zhang. MADRNet: Morphology-Aware Dual-Path Reversible Network for Sperm Classification. IEEE Journal of Biomedical and Health Informatics. 2025. [link](https://pubmed.ncbi.nlm.nih.gov/41284447/)
 1. **Liang Zhang**, Haibin Kan, Jiheng Zhang, Kexin Li. A Blockchain-Envisioned Mailing System. IEEE Transactions on Cloud Computing. 2025. [link](https://ieeexplore.ieee.org/abstract/document/11310802)
+1. Dongliang Cai, **Liang Zhang**, Borui Chen, Haibin Kan. Registered attribute-based encryption with reliable outsourced decryption based on blockchain. Frontiers of Computer Science, 2025. [link](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-50707-3)
+1. Fan Yang, Jingzhang Sun, Honglan Huang, **Liang Zhang**, Jiheng Zhang. MADRNet: Morphology-Aware Dual-Path Reversible Network for Sperm Classification. IEEE Journal of Biomedical and Health Informatics. 2025. [link](https://pubmed.ncbi.nlm.nih.gov/41284447/)
 1. **Liang Zhang**, Zhanrong Ou, Changhui Hu, Haibin Kan* and Jiheng Zhang. Data sharing in the metaverse with key abuse resistance based on decentralized CP-ABE. IEEE Transactions on Computers, 2024, 74(3):901-914. [link](https://ieeexplore.ieee.org/abstract/document/10778270)
 1. **Liang Zhang**, Haibin Kan* and Yihao Wang. Privacy-Preserving AGV Collision-Resistance at the Edge Using Location-Based Encryption. IEEE Transactions on Services Computing, 2023, 16(4): 2868-2878. [link](https://ieeexplore.ieee.org/document/10012042)
 1. **Liang Zhang**, Feiyang Qiu, Feng Hao and Haibin Kan*. 1-Round Distributed Key Generation with Efficient Reconstruction Using Decentralized CP-ABE. IEEE Transactions on Information Forensics and Security, 2022, 17:894-907.  [link](https://ieeexplore.ieee.org/document/9715067)
@@ -103,6 +105,5 @@ Undergraduate Students
 1. Tao Liu, Bachelor, (will persue his Master degree at Wuhan University in 2025), research interest: publicly verifiable secret sharing, proxy re-encryption
 
  -->
-
 
 

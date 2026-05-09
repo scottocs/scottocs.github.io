@@ -25,6 +25,11 @@
   {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
 
+{% assign seo_keywords = page.keywords | default: site.keywords %}
+{% if seo_keywords %}
+  {% assign seo_keywords = seo_keywords | join: ", " | markdownify | strip_html | strip_newlines | escape_once %}
+{% endif %}
+
 {% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}
 {% if seo_author %}
   {% if seo_author.twitter %}
@@ -39,6 +44,10 @@
   {% assign seo_author_twitter = seo_author_twitter | replace: "@", "" %}
 {% endif %}
 
+{% if seo_description %}
+  <meta name="description" content="{{ seo_description }}">
+{% endif %}
+
 <meta property="og:locale" content="{{ site.locale | default: "en" }}">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
@@ -48,8 +57,12 @@
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
 
-{% if page.excerpt %}
+{% if seo_description %}
   <meta property="og:description" content="{{ seo_description }}">
+{% endif %}
+
+{% if seo_keywords %}
+  <meta name="keywords" content="{{ seo_keywords }}">
 {% endif %}
 
 {% if site.twitter.username %}

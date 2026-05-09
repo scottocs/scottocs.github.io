@@ -1,0 +1,62 @@
+/* ==========================================================================
+   HOME PAGE
+   ========================================================================== */
+
+#main.home-main {
+  width: 100%;
+  max-width: none;
+  min-height: calc(100vh - #{$masthead-height});
+  margin-top: 1.5em;
+  padding-left: clamp(1em, 4vw, 4em);
+  padding-right: clamp(1em, 4vw, 4em);
+
+  .sidebar {
+    float: none;
+    width: 100%;
+    margin-bottom: 1.5em;
+    padding-top: 0;
+  }
+
+  .page {
+    float: none;
+    width: 100%;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .page__inner-wrap,
+  .page__content,
+  .page__meta,
+  .page__share {
+    float: none;
+    width: 100%;
+  }
+
+  .page__content {
+    max-width: none;
+  }
+
+  @include breakpoint($large) {
+    display: grid;
+    grid-template-columns: minmax(180px, 220px) minmax(0, 1fr);
+    column-gap: clamp(2em, 4vw, 5em);
+    align-items: start;
+
+    .sidebar {
+      position: sticky;
+      top: calc(#{$masthead-height} + 1.5em);
+      width: auto;
+      margin-bottom: 0;
+    }
+
+    .page {
+      min-width: 0;
+    }
+  }
+
+  @include breakpoint($x-large) {
+    padding-left: clamp(4em, 6vw, 7em);
+    padding-right: clamp(4em, 6vw, 7em);
+  }
+}
