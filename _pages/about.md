@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Liang Zhang**, a Research Assistant Professor at **HKUST** and a former Associate Professor at **Hainan University**. I received my Ph.D. in 2022 from **Fudan University** under the supervision of [**Haibin Kan**](https://cis.cs.fudan.edu.cn/). My current research interests include **blockchain**, **applied cryptography**, and **deep learning**. My current advisors and collaborators include [**Jiheng Zhang**](https://seng.hkust.edu.hk/about/people/faculty/jiheng-zhang) and [**Moti Yung**](https://scholar.google.com/citations?user=ScL8iFQAAAAJ&hl=en). I welcome self-driven students who are interested in the IT industry or passionate about scientific research to reach out. 
+I am **Liang Zhang**, a Research Assistant Professor at **HKUST** and a former Associate Professor at Hainan University. I received my Ph.D. in 2022 from Fudan University under the supervision of [Haibin Kan](https://cis.cs.fudan.edu.cn/). My current research interests include **blockchain**, **applied cryptography**, and **deep learning**. My current advisors and collaborators include [Jiheng Zhang](https://seng.hkust.edu.hk/about/people/faculty/jiheng-zhang) and [Moti Yung](https://scholar.google.com/citations?user=ScL8iFQAAAAJ&hl=en). I welcome self-driven students who are interested in the IT industry or passionate about scientific research to reach out. 
 
 
 
