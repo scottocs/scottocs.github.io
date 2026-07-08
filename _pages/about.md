@@ -7,31 +7,32 @@ redirect_from:
   - /about.html
 ---
 
-I welcome students who are self‑driven, interested in the IT industry, or passionate about scientific research to reach out. Whether you aim for a career in industry or academia, you can learn the skills you seek here. My current research interests include **blockchain**, **applied cryptography**, and **deep learning**.
+I am **Liang Zhang**, a Research Assistant Professor at **HKUST** and a former Associate Professor at **Hainan University**. I received my Ph.D. in 2022 from **Fudan University** under the supervision of [**Haibin Kan**](https://cis.cs.fudan.edu.cn/). My current research interests include **blockchain**, **applied cryptography**, and **deep learning**. My current advisors and collaborators include [**Jiheng Zhang**](https://seng.hkust.edu.hk/about/people/faculty/jiheng-zhang) and [**Moti Yung**](https://scholar.google.com/citations?user=ScL8iFQAAAAJ&hl=en). I welcome self-driven students who are interested in the IT industry or passionate about scientific research to reach out. 
 
 
 
 Online ePrints
 ======
 1. **Liang Zhang**, Dongliang Cai, Tao Liu, Xingyu Wu, Haibin Kan, Jiheng Zhang and Moti Yung, 2025. Publicly Verifiable Generalized Secret Sharing Schemes and Their Applications. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2025/664.pdf)
-1. **Liang Zhang**, Dongliang Cai, Yiwen Gao, Haibin Kan, Jiheng Zhang and Moti Yung, 2025.  Relating PVSS to CCA2-Secure Threshold Encryption: Generic Schemes with O(1) Verification Complexity. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2025/1964.pdf)
-1. **Liang Zhang**, Tao Liu, Haibin Kan and Jiheng Zhang, 2025. AsyRand: asynchronous distributed randomness beacon with reconfiguration. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2025/406.pdf)
+1. **Liang Zhang**, Dongliang Cai, Haibin Kan, Jiheng Zhang and Moti Yung, 2026. Constant-Online PVSS from CCA2-Secure Threshold Encryption: A Generic Framework. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2025/1964.pdf)
+1. **Liang Zhang**, Tao Liu, Haibin Kan and Jiheng Zhang, 2025. AsyRand: asynchronous distributed randomness beacon with reconfiguration. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2026/1009.pdf)
 
 
 Selected Publications
 ======
-1. **Liang Zhang**, Ziming Wang, Fan Yang, Haibin Kan and Jiheng Zhang. MASH: Mask Shuffling-Based Federated Learning for Both Cross-Silo and Cross-Device Environments. TMC (<span style="color: red;">CCF A</span>), 2026. [link](https://doi.org/10.1109/TMC.2026.3683638)
+1. Dongliang Cai+, Yiwen Gao+, Qixiang Li, **Liang Zhang**\*, Borui Chen, Bo Wang, and Haibin Kan*. Verifiable and Fair Registered Attribute-Based Multi-Hop Proxy Re-Encryption Scheme for LLM Agents. IEEE Transactions on Information Forensics and Security (<span style="color: red;">CCF A</span>), 2026. [link](https://doi.org/10.1109/TIFS.2026.3711852)
+1. **Liang Zhang**, Ziming Wang, Fan Yang, Haibin Kan and Jiheng Zhang. MASH: Mask Shuffling-Based Federated Learning for Both Cross-Silo and Cross-Device Environments. IEEE Transactions on Mobile Computing (<span style="color: red;">CCF A</span>), 2026. [link](https://doi.org/10.1109/TMC.2026.3683638)
 1. **Liang Zhang**, Xingyu Wu, Qiuling Yue, Haibin Kan and Jiheng Zhang. Attribute-based publicly verifiable secret sharing. Cybersecurity (CCF-T1, <span style="color: red;">CCF B</span>), 2026, 9(1):123. [link](https://doi.org/10.1186/s42400-026-00559-6)
-1. Dongliang Cai, Borui Chen, **Liang Zhang**, Kexin Li, Haibin Kan. Blockchain-enabled reliable outsourced decryption CP-ABE using responsive zkSNARK for mobile computing. FGCS (CCF-C), 2025, 108182. [link](https://www.sciencedirect.com/science/article/pii/S0167739X25004765)
-1. **Liang Zhang**, Haibin Kan, Jiheng Zhang, Kexin Li. A Blockchain-Envisioned Mailing System. TCC (<span style="color: red;">CCF B</span>), 2025. [link](https://ieeexplore.ieee.org/abstract/document/11310802)
-1. Fan Yang, Jingzhang Sun, Honglan Huang, **Liang Zhang**, Jiheng Zhang. MADRNet: Morphology-Aware Dual-Path Reversible Network for Sperm Classification. JBHI (CCF-C), 2025. [link](https://pubmed.ncbi.nlm.nih.gov/41284447/)
-1. **Liang Zhang**, Zhanrong Ou, Changhui Hu, Haibin Kan* and Jiheng Zhang. Data sharing in the metaverse with key abuse resistance based on decentralized CP-ABE. TC (<span style="color: red;">CCF A</span>), 2024, 74(3):901-914. [link](https://ieeexplore.ieee.org/abstract/document/10778270)
-1. **Liang Zhang**, Haibin Kan* and Yihao Wang. Privacy-Preserving AGV Collision-Resistance at the Edge Using Location-Based Encryption. TSC (<span style="color: red;">CCF A</span>), 2023, 16(4): 2868-2878. [link](https://ieeexplore.ieee.org/document/10012042)
-1. **Liang Zhang**, Feiyang Qiu, Feng Hao and Haibin Kan*. 1-Round Distributed Key Generation with Efficient Reconstruction Using Decentralized CP-ABE. TIFS (<span style="color: red;">CCF A</span>), 2022, 17:894-907.  [link](https://ieeexplore.ieee.org/document/9715067)
-1. Hang Zhou, **Liang Zhang\***, Xingyu Wu and Jiheng Zhang*. Privacy-Preserving and Verifiable Aggregation for Multi-Task and Multi-Dimensional Data. Comput. J. (<span style="color: red;">CCF B</span>), 2025, bxaf111. [link](https://doi.org/10.1093/comjnl/bxaf111)
-1. Dongliang Cai, **Liang Zhang**, Borui Chen, Haibin Kan*, Registered Attribute-Based Encryption with Reliable Outsourced Decryption Based on Blockchain, FCS (CCF-T1, <span style="color: red;">CCF B</span>), 2025, [link](https://doi.org/10.1007/s11704-025-50707-3)
-1. **Liang Zhang**,Xingyu Wu, Yuhang Ma and Haibin Kan*, Data exchange for the metaverse with accountable decentralized TTPs and incentive mechanisms, TBD (CCF-C), 2025, [link](https://ieeexplore.ieee.org/abstract/document/10854874)
-1. **Liang Zhang**, Haibin Kan*, Feiyang Qiu and Feng Hao. A publicly verifiable optimistic fair exchange protocol using decentralized CP-ABE. Comput. J. (<span style="color: red;">CCF B</span>), 2024, 67(3), 1017-1029. [link](https://academic.oup.com/comjnl/article-abstract/67/3/1017/7135811)
+1. Dongliang Cai, Borui Chen, **Liang Zhang**, Kexin Li, Haibin Kan. Blockchain-enabled reliable outsourced decryption CP-ABE using responsive zkSNARK for mobile computing. Future Generation Computer Systems (CCF-C), 2025, 108182. [link](https://www.sciencedirect.com/science/article/pii/S0167739X25004765)
+1. **Liang Zhang**, Haibin Kan, Jiheng Zhang, Kexin Li. A Blockchain-Envisioned Mailing System. IEEE Transactions on Cloud Computing (<span style="color: red;">CCF B</span>), 2025. [link](https://ieeexplore.ieee.org/abstract/document/11310802)
+1. Fan Yang, Jingzhang Sun, Honglan Huang, **Liang Zhang**, Jiheng Zhang. MADRNet: Morphology-Aware Dual-Path Reversible Network for Sperm Classification. IEEE Journal of Biomedical and Health Informatics (CCF-C, Top), 2025. [link](https://pubmed.ncbi.nlm.nih.gov/41284447/)
+1. **Liang Zhang**, Zhanrong Ou, Changhui Hu, Haibin Kan* and Jiheng Zhang. Data sharing in the metaverse with key abuse resistance based on decentralized CP-ABE. IEEE Transactions on Computers (<span style="color: red;">CCF A</span>), 2024, 74(3):901-914. [link](https://ieeexplore.ieee.org/abstract/document/10778270)
+1. **Liang Zhang**, Haibin Kan* and Yihao Wang. Privacy-Preserving AGV Collision-Resistance at the Edge Using Location-Based Encryption. IEEE Transactions on Services Computing (<span style="color: red;">CCF A</span>), 2023, 16(4): 2868-2878. [link](https://ieeexplore.ieee.org/document/10012042)
+1. **Liang Zhang**, Feiyang Qiu, Feng Hao and Haibin Kan*. 1-Round Distributed Key Generation with Efficient Reconstruction Using Decentralized CP-ABE. IEEE Transactions on Information Forensics and Security (<span style="color: red;">CCF A</span>), 2022, 17:894-907.  [link](https://ieeexplore.ieee.org/document/9715067)
+1. Hang Zhou, **Liang Zhang\***, Xingyu Wu and Jiheng Zhang*. Privacy-Preserving and Verifiable Aggregation for Multi-Task and Multi-Dimensional Data. The Computer Journal (<span style="color: red;">CCF B</span>), 2025, bxaf111. [link](https://doi.org/10.1093/comjnl/bxaf111)
+1. Dongliang Cai, **Liang Zhang**, Borui Chen, Haibin Kan*, Registered Attribute-Based Encryption with Reliable Outsourced Decryption Based on Blockchain, Frontiers of Computer Science (CCF-T1, <span style="color: red;">CCF B</span>), 2025, [link](https://doi.org/10.1007/s11704-025-50707-3)
+1. **Liang Zhang**,Xingyu Wu, Yuhang Ma and Haibin Kan*, Data exchange for the metaverse with accountable decentralized TTPs and incentive mechanisms, IEEE Transactions on Big Data (CCF-C), 2025, [link](https://ieeexplore.ieee.org/abstract/document/10854874)
+1. **Liang Zhang**, Haibin Kan*, Feiyang Qiu and Feng Hao. A publicly verifiable optimistic fair exchange protocol using decentralized CP-ABE. The Computer Journal (<span style="color: red;">CCF B</span>), 2024, 67(3), 1017-1029. [link](https://academic.oup.com/comjnl/article-abstract/67/3/1017/7135811)
 1. Zhanrong Ou, Tao Liu, Yitao Men, **Liang Zhang**\*, Habin Kan. Blockchain-driven optimistic fair exchange based on PVSS and zkSNARKs. CSCWD (<span style="color: red;">CCF B</span>), 2025, pp. 404-410.
 1. Xingyu Wu†, **Liang Zhang†** and Honglan Huang*, Patient-Centered Data Sharing and Revision Framework Based on Redactable Blockchain. BIBM (<span style="color: red;">CCF B</span>), 2023, pp. 4452-4458. [link](https://www.computer.org/csdl/proceedings-article/bibm/2023/10385627/1TOaLhlE9xK)
 1. **Liang Zhang**, Haibin Kan*, Jinrong Huang and Zhanpeng Zhang. Hierarchically Delegatable and Revocable Access Control for Large-scale IoT Devices with Tradability based on Blockchain. APWeb-WAIM (CCF-C), 2023, pp. 81-95. [link](https://link.springer.com/chapter/10.1007/978-981-97-2303-4_6)
@@ -39,22 +40,13 @@ Selected Publications
 1. **Liang Zhang**, Haibin Kan*, Yuan Li and Jinrong Huang. Poster: Blockchain-Envisioned Secure Generic Communication Framework using Signcryption. SACMAT (CCF-C), 2022, pp. 255–257. [link](https://dl.acm.org/doi/abs/10.1145/3532105.3535034)
 
 
-<!-- 1. **Liang Zhang**, Haibin Kan*, Yang Xu and Jinhao Ran. Revocable Data Sharing Methodology Based on SGX and Blockchain. In the International Conference on Network and System Security (EI: 20220411517836), 2021, pp. 61-78. [link](https://link.springer.com/chapter/10.1007/978-3-030-92708-0_4)
-1. 陶静怡, **张亮**, 阚海斌. 基于区块链和去中心化可问责属性认证的众包方案. 软件学报 (CCF 高质量期刊 T1 类). 2024, 1-16. [link](https://www.jos.org.cn/jos/article/abstract/nk016)
-1. **张亮**, 刘百祥, 张如意, 江斌鑫, 刘一江. 区块链技术综述. 计算机工程 (高被引, CCF 高质量期刊T2 类), 2019, 45(05):1-12. [link](https://www.ecice06.com/CN/10.19678/j.issn.1000-3428.0053554)
-1. 马宇航, **张亮***，吴星雨, 李鸣. 基于分布式密钥生成和属性密码的多方跨链交易方案. 计算机研究与发展(CCF 高质量期刊 T1 类), 2023, 60(11): 2534-2544. [link](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202330305?viewType=HTML)
-1. 陈泽宁, **张亮**, 张双俊, 阚海斌*. 基于区块链和去中心属性密码的访问控制身份方案. 中国科学 (CCF 高质量期刊 T1 类), 2020, 58(8). [link](http://scis.scichina.com/cn/2021/SSI-2020-0048.pdf)
-1. 张展鹏, **张亮**, 彭凌祺, 阚海斌*. 基于区块链非同质化代币的软件订阅模型. 计算机工程 (CCF 高质量期刊 T2 类), 2022, 48(01):24-32. [link](https://www.ecice06.com/CN/10.19678/j.issn.1000-3428.0062500)
-1. 李鸣, **张亮**, 宋文鹏, 吴美玉. 区块链：元宇宙的核心基础设施. 计算机工程 (CCF 高质量期刊 T2 类), 2022, 48(6):24-32,41. [link](https://www.ecice06.com/CN/10.19678/j.issn.1000-3428.0064120)
-1. **张亮**, 刘百祥. 区块链与秘密分享融合技术概述. 计算机工程 (CCF 高质量期刊 T2 类), 2022,48(01):1-11. [link](https://www.ecice06.com/CN/10.19678/j.issn.1000-3428.0064102)
- -->
-
 Fundings
 ======
-1. 2024.02.08-2026.02.07, Hainan Province Key R&D Project, 660,000 RMB, Principal Investigator.
+<!-- 1. 2024.02.08-2026.02.07, Hainan Province Key R&D Project, 660,000 RMB, Principal Investigator.
 1. 2024.01.01-2026.12.31, National Natural Science Foundation of China for Young Scientists, 300,000 RMB, Principal Investigator.
-<!-- 1. 2023.03.07-2023.10.31, Youth Teacher Training Project of Hainan University, 30,000 RMB, Principal Investigator. -->
-1. 2022.07.07-Now, the Foundation of Hainan University, 100,000 RMB, Principal Investigator.
+1. 2022.07.07-Now, the Foundation of Hainan University, 100,000 RMB, Principal Investigator. -->
+1. NSFC Youth Project (No. 62302129): "Research on Distributed Randomness Generation Based on Multi-Authority Attribute-Based Cryptography," RMB 300,000, On-going.
+1. Hainan Provincial Key R&D Program (No. ZDYF2024GXJS030): "Research on Architecture and Technologies for Cross-Department Data Collaboration and Supervision Based on Blockchain," RMB 660,000, Completed.
 
 
 Teaching Activities
@@ -76,16 +68,15 @@ Work/Education Experience
 1. 2015-2016 R&D @Startup company
 1. 2017-2022 Integrated MS-PhD Program @Fudan University Directed by: Haibin Kan
 1. 2022-2023 Lecturer @Hainan University
-1. 2024-Now Associate Professor @Hainan University
+1. 2024-2024 Associate Professor @Hainan University
 1. 2024-2025 PostDoc @HKUST
 1. 2025-Now Research Assistant Professor @HKUST
 
 
 Professional Services
 ======
-1. Member at large, Blockchain and Distributed Ledger Standards Committee
-1. PC, Computer Engineering
-1. Reviewer, IEEE Transactions on Industrial Informatics
-1. Reviewer, Journal of Software
-1. Reviewer, IEEE Transactions on Industrial Informatics
-1. Reviewer, IEEE Transactions on Services Computing
+1. [**Member at large**](https://sagroups.ieee.org/bdlsc/organization/) Blockchain and Distributed Ledger Standards Committee 
+1. Reviewer, IEEE Transactions on Computers
+1. Reviewer, IEEE Transactions on Mobile Computing
+1. Reviewer, IEEE/ACM Transactions on Networking
+1. Reviewer, IEEE Transactions on Dependable and Secure Computing
