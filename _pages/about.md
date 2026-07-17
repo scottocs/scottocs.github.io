@@ -16,10 +16,11 @@ Online ePrints
 1. **Liang Zhang**, Dongliang Cai, Tao Liu, Xingyu Wu, Haibin Kan, Jiheng Zhang and Moti Yung, 2025. Publicly Verifiable Generalized Secret Sharing Schemes and Their Applications. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2025/664.pdf)
 1. **Liang Zhang**, Dongliang Cai, Haibin Kan, Jiheng Zhang and Moti Yung, 2026. Constant-Online PVSS from CCA2-Secure Threshold Encryption: A Generic Framework. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2025/1964.pdf)
 1. **Liang Zhang**, Tao Liu, Haibin Kan and Jiheng Zhang, 2025. AsyRand: asynchronous distributed randomness beacon with reconfiguration. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2026/1009.pdf)
-
+1. Borui Chen, **Liang Zhang**, Dongliang Cai, Kexin Li, Jiamian Yan and Haibin Kan. 2026, HACC: A Scalable Hierarchical Accumulator with Sublinear Cost for Large Dynamic Sets. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2026/1407.pdf)
 
 Selected Publications
 ======
+1. Yuan Li, Junzuo Lai\*, Yi Liu, **Liang Zhang**, Haiyan Wang, Ke Ma, Jiheng Zhang. Verifiable Encrypted Timed Signature Scheme and Its Application in Blockchains. IEEE Transactions on Dependable and Secure Computing. (<span style="color: red;">CCF A</span>), 2026. [link]()
 1. Dongliang Cai†, Yiwen Gao†, Qixiang Li, **Liang Zhang**\*, Borui Chen, Bo Wang, and Haibin Kan*. Verifiable and Fair Registered Attribute-Based Multi-Hop Proxy Re-Encryption Scheme for LLM Agents. IEEE Transactions on Information Forensics and Security (<span style="color: red;">CCF A</span>), 2026. [link](https://doi.org/10.1109/TIFS.2026.3711852)
 1. **Liang Zhang**, Ziming Wang, Fan Yang, Haibin Kan and Jiheng Zhang. MASH: Mask Shuffling-Based Federated Learning for Both Cross-Silo and Cross-Device Environments. IEEE Transactions on Mobile Computing (<span style="color: red;">CCF A</span>), 2026. [link](https://doi.org/10.1109/TMC.2026.3683638)
 1. **Liang Zhang**, Xingyu Wu, Qiuling Yue, Haibin Kan and Jiheng Zhang. Attribute-based publicly verifiable secret sharing. Cybersecurity (CCF-T1, <span style="color: red;">CCF B</span>), 2026, 9(1):123. [link](https://doi.org/10.1186/s42400-026-00559-6)
