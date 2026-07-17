@@ -14,7 +14,7 @@ I am **Liang Zhang**, a Research Assistant Professor at **HKUST** and a former A
 Online ePrints
 ======
 1. **Liang Zhang**, Dongliang Cai, Tao Liu, Xingyu Wu, Haibin Kan, Jiheng Zhang and Moti Yung, 2025. Publicly Verifiable Generalized Secret Sharing Schemes and Their Applications. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2025/664.pdf)
-1. **Liang Zhang**, Dongliang Cai, Haibin Kan, Jiheng Zhang and Moti Yung, 2026. Constant-Online PVSS from CCA2-Secure Threshold Encryption: A Generic Framework. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2025/1964.pdf)
+1. **Liang Zhang**, Dongliang Cai, Haibin Kan, Jiheng Zhang and Moti Yung, 2026. Constant-Online PVSS from CCA2-Secure Threshold Encryption: A Generic Framework. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2026/1009.pdf)
 1. **Liang Zhang**, Tao Liu, Haibin Kan and Jiheng Zhang, 2025. AsyRand: asynchronous distributed randomness beacon with reconfiguration. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2025/406.pdf)
 1. Borui Chen, **Liang Zhang**, Dongliang Cai, Kexin Li, Jiamian Yan and Haibin Kan. 2026, HACC: A Scalable Hierarchical Accumulator with Sublinear Cost for Large Dynamic Sets. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2026/1407.pdf)
 
