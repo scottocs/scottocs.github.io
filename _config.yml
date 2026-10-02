@@ -161,6 +161,8 @@ exclude:
   - CHANGELOG
   - Capfile
   - Gemfile
+  - Gemfile.lock
+  - preview.command
   - Gruntfile.js
   - LICENSE
   - README

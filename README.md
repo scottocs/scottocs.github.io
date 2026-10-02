@@ -20,12 +20,21 @@ See more info at https://academicpages.github.io/
 
 ## Running Locally
 
+### macOS one-click preview
+
+Install Homebrew Ruby once with `brew install ruby@3.3`, then double-click
+`preview.command` in Finder or run `./preview.command` in the repository.
+The script installs missing gems locally and starts the live-reloading site at
+<http://127.0.0.1:4000>. Keep the terminal window open; press `Ctrl+C` to stop.
+
+### Other environments
+
 When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 
 1. Clone the repository and made updates as detailed above.
 1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+1. Run `bundle install` to install Ruby dependencies.
+1. Run `bundle exec jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000`; the local server will automatically rebuild and refresh the pages on change.
 
 
 # Maintenance 

@@ -1,0 +1,9 @@
+.DS_Store
+.bundle/
+# Keep the locally resolved preview dependencies out of the Pages deployment.
+Gemfile.lock
+vendor/bundle/
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
