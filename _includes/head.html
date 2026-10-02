@@ -16,6 +16,8 @@
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+<!-- Refresh cached styles whenever the site is rebuilt. Use the current host
+     so local previews and the published site load their own stylesheet. -->
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}">
 
 <meta http-equiv="cleartype" content="on">
