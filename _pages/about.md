@@ -18,7 +18,7 @@ Online ePrints
 1. **Liang Zhang**, Tao Liu, Haibin Kan and Jiheng Zhang, 2025. AsyRand: asynchronous distributed randomness beacon with reconfiguration. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2025/406.pdf)
 1. Borui Chen, **Liang Zhang**, Dongliang Cai, Kexin Li, Jiamian Yan and Haibin Kan. 2026, HACC: A Scalable Hierarchical Accumulator with Sublinear Cost for Large Dynamic Sets. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2026/1407.pdf)
 1. Borui Chen, **Liang Zhang**, Dongliang Cai, Kexin Li, Jiamian Yan and Haibin Kan. 2026, HACC: A Scalable Hierarchical Accumulator with Sublinear Cost for Large Dynamic Sets. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2026/1407.pdf)
-1. Hou, B., Yan, J., Zhang, L., Chen, B. and Kan, H., 2026. Silk: Computation-Efficient and Post-Quantum-Friendly Randomness Beacon. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2026/2021.pdf)
+1. Binyang Hou, Jiamian Yan, Liang Zhang, Borui Chen and Haibin Kan, 2026. Silk: Computation-Efficient and Post-Quantum-Friendly Randomness Beacon. Cryptology ePrint Archive. [link](https://eprint.iacr.org/2026/2021.pdf)
 
 Selected Publications
 ======
